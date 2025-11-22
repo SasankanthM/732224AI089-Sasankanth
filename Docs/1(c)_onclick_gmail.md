@@ -1,25 +1,24 @@
 ## Steps
+- Click “Create Workflow.”
 
-- Click “Create Workflow”.
+- Click “Add First Step.”
 
-- Click “Add First Step”.
-
-- Search for “Manual Trigger”.
-
-- Add it to the canvas.
+- Search for “Chat Trigger” and select it.
 
 - Click the “+” button to add another node.
 
-- Search for “Gmail”.
+- Search for “Gmail.”
 
-- Choose “Send a Message”.
+- Select “Send a Message.”
 
-- Enter your Gmail account (connect your credentials).
+- Enter your Gmail account (authenticate if needed).
 
 - Enter the receiver’s Gmail address.
 
-- Write the subject and message you want to send.
+- Enter the subject and message you want to send.
+
+- Click “Execute Workflow.”
 
 ## Screenshot
 
-<img width="511" height="236" alt="Screenshot 2025-11-21 124308" src="https://github.com/user-attachments/assets/4656722f-188a-4fb0-afbf-739969d625b7" />
+<img width="578" height="263" alt="Screenshot 2025-11-22 093229" src="https://github.com/user-attachments/assets/b7672d85-4d99-46b1-a880-28e2efdeb65c" />
